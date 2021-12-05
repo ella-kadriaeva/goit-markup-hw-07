@@ -209,7 +209,8 @@ body {
 }
 .address__link {
     color: var(--accent-white-color);
-    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
 }
 
 .link--invers {
@@ -545,7 +546,7 @@ body {
 }
 
 .page-footer__list {
-    margin-right: 70px;
+    margin-right: 90px;
 }
 
 .page-footer__block-join {
