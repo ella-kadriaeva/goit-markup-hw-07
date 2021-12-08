@@ -41,7 +41,7 @@
     }
 }
 
-.portfolio__button {
+.filter__button {
     @extend %button;
     background-color: getColor('buttonbg');
     color: getColor('title');
